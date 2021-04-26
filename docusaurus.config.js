@@ -20,9 +20,9 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/bojkomatias/docusaurus-2',
           label: 'GitHub',
           position: 'right',
         },
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Wiki-IoT, Inc. Built with Docusaurus.`,
     },
   },
   presets: [

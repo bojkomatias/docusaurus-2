@@ -1,11 +1,8 @@
 ---
 id: doc1
-title: Style Guide
-sidebar_label: Style Guide
+title: Información
+sidebar_label: Información
 ---
-
-HOLA
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
 

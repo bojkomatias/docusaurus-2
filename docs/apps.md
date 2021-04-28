@@ -1,5 +1,5 @@
 ---
-id: appl
+id: apps
 title: Aplicaciones
 sidebar_label: Aplicaciones
 ---

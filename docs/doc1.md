@@ -8,10 +8,14 @@ sidebar_label: Información
 
 To serve as an example page when styling markdown based Docusaurus sites.
 
-## Headers
 
-# H1 - Create the best documentation
 
+### Las Redes IoT
+Red del Internet de Cosas (NB-IoT) es una Red de Área Amplia de Baja Potencia (LPWAN), es un estándar de tecnología de radio desarrollado por 3GPP para habilitar servicios de alta gama para dispositivos móviles.1​2​ Anteriormente se utilizaba la especificación3GPP Liberación 13 (LTE Avanzado Pro), hasta junio de 2016.3​ Otras Tecnologías 3GPP IoT incluyen eMTC (Tipo de comunicación enlazada al dispositivo) y EC-GSM-IoT.4​
+
+NB-IoT se enfoca específicamente en la cobertura de espacios cerrados, de bajo costo, batería de larga duración, y densidades de conexión altas. NB-IoT Utiliza una ampliación de la red LTE estándar, pero limita el ancho de banda a una sola banda de 200kHz. Utiliza la modulación OFDM para comunicaciones de pocas conexiones entre dispositivos y utiliza SC-FDMA para comunicaciones con más conexiones entre dispositivos.5​6​7​8​9​
+
+En marzo de 2019, la Asociación Global Proovedores Móviles anunció que más de 100 operadores han desplegado o lanzado alguna red NB-IoT o LTE-M.10​. Este número había aumentado a 142 redes desplegadas en septiembre de 2019.11​
 ## H2 - Create the best documentation
 
 ### H3 - Create the best documentation
@@ -103,9 +107,8 @@ s = "Python syntax highlighting"
 print(s)
 ```
 
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
+```java
+for (i = )
 ```
 
 ```js {2}
@@ -128,7 +131,7 @@ Colons can be used to align columns.
 
 There must be at least 3 dashes separating each header cell. The outer pipes (|) are optional, and you don't need to make the raw Markdown line up prettily. You can also use inline Markdown.
 
-| Markdown | Less      | Pretty     |
+| Markdown | Less      | Pretty     |k
 | -------- | --------- | ---------- |
 | _Still_  | `renders` | **nicely** |
 | 1        | 2         | 3          |

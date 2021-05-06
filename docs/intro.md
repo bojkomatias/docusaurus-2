@@ -1,6 +1,7 @@
 ---
 id: intro
-title: Internet de las coasas
+title: Internet de las cosas
+sidebar_label: Internet de las cosas
 ---
 
 ## ¿Qué es internet de las cosas?

@@ -20,3 +20,18 @@ Para el año 2013, la tecnología de Internet de las cosas había evolucionado l
 
 Al principio el Internet de las cosas estaba pensado para ser utilizado en el ámbito de los negocios y manufactura, pero actualmente el enfoque se mucho más amplio, las aplicaciones de esta tecnología están llenando nuestras casa y oficinas con dispositivos inteligentes, haciendo que el Internet de las cosas sea relevante para prácticamente todas las personas. Está tecnología ahora es parte de nuestras vidas, interactuamos con estos dispositivos a diario y ya no parece una locura que podamos controlar los dispositivos utilizando nuestro celulares o computadoras mediante internet.
 
+## Que es un protocolo de IoT
+
+Los protocolos cumplen una parte crucial en el Internet de las cosas, sin estos el hardware de los dispositivos no tendrían propósito ya que los protocolos permiten que los dispositivos intercambien datos de una forma estructurada y significante. 
+Un tema de suma importancia en Internet de las cosas es la comunicación, la interacción entre sensores, dispositivos, puertas de enlace, servidores y aplicaciones de usuario son las características que le dan la esencia al internet de las cosas. Los protocolos de IoT son los encargados de hacer posible la interacción y comunicación entre los dispositivos inteligente.
+
+Los dispositivos de IoT pueden ser comunicados mediante redes IP y también por redes que no utilicen IP, en estos diferentes tipos de comunicación lo que varia es el rango, la potencia y el uso de memoria. De esta manera las conexiones mediante IP son mas complejas y consumen bastante memoria y potencia del dispositivo mientras que el rango no es un problema. En el caso de redes que no utilicen IP, como puede ser bluetooth, se requiere menos memoria y potencia, pero el rango es limitado.
+
+Los protocolos de IoT estandarizado brindan los siguientes beneficios:
+-	Alta calidad y credibilidad.
+-	Interoperabilidad y flexibilidad en la innovación.
+-	Estabilidad global
+
+Existen dos tipos de protocolos IoT que engloban todos los protocolos existentes, estos dos tipos son los protocolos IoT de red y los protocolos IoT de datos. 
+Los protocolos IoT de red están diseñados para conectar dispositivos de mediana y alta potencia en red, este tipo de protocolo permite la comunicación de datos dentro del rango de la red. Zigbee, HTTP, Bluetooth son algunos de los protocolos IoT de red más conocidos. 
+Los protocolos IoT de datos están diseñados para conectar dispositivos IoT de baja potencia. Cuando no existe una conexión con internet, estos dispositivos son capaces de comunicarse de manera punto a punto con el hardware. La conexión del protocolo IoT se puede establecer mediante una red cableada o de celular. MQTT, XMPP, CoAP son algunos de los protocolos IoT de datos más conocidos.

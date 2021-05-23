@@ -39,20 +39,20 @@ sidebar_label: ZigBee
 ### Topologia en Estrella.
   Donde existe un coordinador y se situa en el centro. Es simple de implementar, pero al pasar todo por el coordinador puede ser un cuello de botella
 
-  ![Star Topology](./../static/img/star-topology.jpg)
+  ![Star Topology](/static/img/star-topology.jpg)
 
 ### Topologia en Árbol.
   Esta tambien cuenta con un coordinador central, pero conectado a routers encarcargados de comunicarse con los nodos finales. Esto extiende el alcance de la red. La regla es que solo los coordinadores o routers puede ser padres, y solo los nodos finales pueden ser hijos. Pero de esta manera si un router pierde la conexion, tambien lo hacen todos los hijos conectados.
 
-  ![Star Topology](./../static/img/tree-topology.jpg)
+  ![Tree Topology](/static/img/tree-topology.jpg)
 
 ### Topologia en Cluster.
   Cluster es una forma especifica de la topologia en Arbol.
 
-  ![Star Topology](./../static/img/cluster-topology.jpg)
+  ![Cluster Topology](/static/img/cluster-topology.jpg)
 
 
 ### Topologia en Malla.
   Consiste en el coordinador, comunicado con multiples routers, y conexion entre routers tambien. El punto clave es que elimina las complicaciones si un nodo se cae, la conexion puede cambiar de ruta y seguir trabajando normalmente. Es mas compleja de implementar, pero mass confiable.
 
-  ![Star Topology](./../static/img/mesh-topology.jpg)
+  ![Mesh Topology](/static/img/mesh-topology.jpg)

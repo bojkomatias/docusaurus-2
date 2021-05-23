@@ -3,8 +3,6 @@ id: apps
 title: Aplicaciones
 sidebar_label: Aplicaciones
 ---
-
-# Aplicaciones
 ### Dispositivos Personales
 Ya conocemos de dispositivos como relojes inteligentes, lentes, cintos con GPS, y demas, que las grandes companias an puesto a nuestra disposición. Estos vienen con multiples sensores pero a su vez son eficientes respecto al consumo de energia.
 

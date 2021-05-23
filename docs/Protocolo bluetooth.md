@@ -1,5 +1,5 @@
 ---
-id: intro
+id: bluetooth
 title: Protocolo bluetooth
 sidebar_label: Protocolo bluetooth
 ---

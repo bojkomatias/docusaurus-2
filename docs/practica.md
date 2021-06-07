@@ -32,9 +32,8 @@ void setup()
 }
 
 void loop(){
-  
-  if(Bluetooth.available()){
 
+  if(Bluetooth.available()){
     command = Bluetooth.read();
 
     Serial.println(command);  

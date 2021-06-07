@@ -16,7 +16,7 @@ Las redes de bluetooth se pueden clasificar en dos, la red mas simple es la Pico
 ## Comunicación de dos dispositivos bluetooth
 
 La comunicación entre dos dispositivos bluetooth es un proceso de varios pasos que se producen en tres etapas (consulta, paginación, conexión).
--	La consulta se realiza cuando dos dispositivos que se van a conectar no tienen conocimiento de los detalles de cada uno. Entonces el otro dispositivo si quiere establecer la comunicación le manda el un mensaje de respuesta con su nombre y la dirección.
+-	La consulta se realiza cuando dos dispositivos que se van a conectar no tienen conocimiento de los detalles de cada uno. El dispositivo que desea establecer la conexión manda un mensaje con su nombre y su dirección, entonces el otro dispositivo si quiere establecer la comunicación le manda el un mensaje de respuesta con su nombre y la dirección.
 -	La paginación es el proceso en le que los dos dispositivos se conectan entre sí, esto solo se puede hacer si cada dispositivo conoce la dirección del otro dispositivo, que fue solicitada en la etapa de consulta.
 -	Cuando la paginación termina, los dispositivos entran en modo de conexión. Cuando ya se encuentran conectados los dispositivos tienen la habilidad de comunicarse entre ellos.
 ## Bluetooth especifico para IoT

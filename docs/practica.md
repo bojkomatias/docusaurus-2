@@ -38,29 +38,26 @@ void loop(){
 
     Serial.println(command);  
     switch (command) {
+      //Red   
       case 'W':
         digitalWrite(10, HIGH);
-        //red(command);
         break;
       case 'w':
         digitalWrite(10, LOW);
-        //red(command);
         break;
+      //Yellow        
      case 'U':
         digitalWrite(9, HIGH);
-        //yellow(command);
         break;
       case 'u':
         digitalWrite(9, LOW);
-        //yellow(command);
         break;
+      //Green         
       case 'V':
         digitalWrite(8, HIGH);
-        //green(command);
         break;
       case 'v':
         digitalWrite(8, LOW);
-        //green(command);
         break;
     }
   }

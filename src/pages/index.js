@@ -12,8 +12,7 @@ const features = [
     imageUrl: 'img/Smarthome.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Explicacion de los protocolos utilizados en IoT, los mas comunes ZigBee y Bluetooth.
       </>
     ),
   },
@@ -22,8 +21,7 @@ const features = [
     imageUrl: 'img/Arduino.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Implementacion de un proyecto Bluetooth, utilizando Arduino.
       </>
     ),
   },

@@ -17,7 +17,6 @@ sidebar_label: ZigBee
   - Menor consumo eléctrico que el de Bluetooth. Se debe a que el sistema Zigbee se queda la mayor parte del tiempo dormido.
   - Tiene una velocidad de hasta 250 kbit/s, mientras que en Bluetooth es de hasta 3000 kbit/s. Por eso ZigBee se orienta mas a la Domotica donde los productos dependientes de la batería y los sensores implican una transferencia de datos menor.
 
-
 ## Tipo de dispositivos
 ### Coordinador Zigbee (Zigbee Coordinator, ZC).
    El tipo de dispositivo más completo. Debe existir solo uno por red. Sus funciones son las de encargarse de controlar la red y los caminos que deben seguir los dispositivos para conectarse entre ellos.

@@ -10,7 +10,7 @@ Bluetooth es una tecnología de red que conecta de forma inalámbrica dispositiv
 
 Bluetooth es muy utilizado porque requiere menor energía para transmitir datos, también tiene una mejor relación costo efectividad, por tal motivo son ideales en el mundo del IoT para proyectos que necesitan trabajar con baja potencia. Otra razón por la que se utiliza mucho este protocolo es porque en una comunicación de corta distancia la transmisión es muy rápida, puede alcanzar los 2 Mbps fácilmente.
 
-Las redes re bluetooth se pueden clasificar en dos, la red mas simple es la Piconet, la cual está compuesta por un nodo maestro y hasta siete nodos esclavos conectados activos. Luego esta la red mas compleja es el Scatternet que consiste en dos o más Piconets conectadas mediante un nodo puente en común, esto permite aumentar el área de alcance de la red ya que permite un mayor número de dispositivos conectados.
+Las redes de bluetooth se pueden clasificar en dos, la red mas simple es la Piconet, la cual está compuesta por un nodo maestro y hasta siete nodos esclavos conectados activos. Luego esta la red mas compleja es el Scatternet que consiste en dos o más Piconets conectadas mediante un nodo puente en común, esto permite aumentar el área de alcance de la red ya que permite un mayor número de dispositivos conectados.
 
 
 ## Comunicación de dos dispositivos bluetooth

@@ -12,7 +12,7 @@ Con este ejemplo practico se puede demostrar cómo funciona una conexión blueto
 
 ## Diagrama del ejemplo práctico 
 
-![alt text](https://github.com/bojkomatias/docusaurus-2/blob/master/static/img/TP_Final%20Diagrama_bb.png "Diagrama Bluetooth")
+![alt text](/img/TP_Final%20Diagrama_bb.png "Diagrama Bluetooth")
 
 ## Code
 

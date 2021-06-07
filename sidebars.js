@@ -1,6 +1,10 @@
 module.exports = {
   someSidebar: {
-    Investigacion_Teórica: ['intro', 'apps', 'zigbee', 'bluetooth'],
+    Teoria: ['intro', 'apps', 'zigbee', 'bluetooth'],
+  },
+  someSidebar: {
     Practica: ['practica'],
   },
+
+
 };

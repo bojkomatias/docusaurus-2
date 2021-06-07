@@ -22,8 +22,9 @@ Al principio el Internet de las cosas estaba pensado para ser utilizado en el á
 
 ## Que es un protocolo de IoT
 
-Los protocolos cumplen una parte crucial en el Internet de las cosas, sin estos el hardware de los dispositivos no tendrían propósito ya que los protocolos permiten que los dispositivos intercambien datos de una forma estructurada y significante. 
-Un tema de suma importancia en Internet de las cosas es la comunicación, la interacción entre sensores, dispositivos, puertas de enlace, servidores y aplicaciones de usuario son las características que le dan la esencia al internet de las cosas. Los protocolos de IoT son los encargados de hacer posible la interacción y comunicación entre los dispositivos inteligente.
+Los protocolos cumplen una parte crucial en el Internet de las cosas, sin estos el hardware de los dispositivos no tendrían propósito ya que los protocolos permiten que los dispositivos intercambien datos de una forma estructurada y significante.
+
+Un tema de suma importancia en Internet de las cosas es la comunicación e interacción entre sensores, dispositivos, puertas de enlace, servidores y aplicaciones de usuario son las características que le dan la esencia al internet de las cosas. Los protocolos de IoT son los encargados de hacer posible la interacción y comunicación entre los dispositivos inteligente.
 
 Los dispositivos de IoT pueden ser comunicados mediante redes IP y también por redes que no utilicen IP, en estos diferentes tipos de comunicación lo que varia es el rango, la potencia y el uso de memoria. De esta manera las conexiones mediante IP son mas complejas y consumen bastante memoria y potencia del dispositivo mientras que el rango no es un problema. En el caso de redes que no utilicen IP, como puede ser bluetooth, se requiere menos memoria y potencia, pero el rango es limitado.
 

@@ -55,4 +55,5 @@ sidebar_label: ZigBee
 ### Topologia en Malla.
   Consiste en el coordinador, comunicado con multiples routers, y conexion entre routers tambien. El punto clave es que elimina las complicaciones si un nodo se cae, la conexion puede cambiar de ruta y seguir trabajando normalmente. Es mas compleja de implementar, pero mass confiable.
 
-  ![Mesh Topology](/static/img/mesh-topology.jpg)
+![Mesh Topology](/static/img/mesh-topology.jpg)
+<img src='/static/img/mesh-topology.jpg' />

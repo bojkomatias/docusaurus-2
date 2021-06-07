@@ -10,7 +10,7 @@ El internet de las cosas hace referencia a la red de objetos físicos, las “co
 
 Hoy en día existen aproximadamente 7 mil millones de dispositivos de internet de las cosas conectados, los cuales se pueden comunicar y compartir datos en tiempo real sin requerir de la intervención de alguna persona. El internet de las cosas está cambiando el mundo brindando artefactos mas inteligentes y mas responsivos combinando el mundo digital y el mundo físico.
 
-Un dispositivo que utilice Internet de las cosas puede ser un tanto como un foco que se puede prender y apagar utilizando el celular o con sensores de movimiento, las aplicaciones de esta tecnología pueden ir de algo tan simple como un juguete para niños, hasta algo tan complejo como un camión autónomo. Es muy probable que un componente grande que utilice internet de las cosas tenga dentro otros componentes más chicos que también utilicen internet de las cosas, como por ejemplo los cohetes de SpaceX, que el cohete es manejado autónomamente y contiene miles de sensores que recolectan información que es enviada a la computadora que maneja el cohete y también a la maquinas terrestres que monitorean el funcionamiento del cohete.
+Un dispositivo que utilice Internet de las cosas puede ser tanto como un foco que se puede prender y apagar utilizando el celular o con sensores de movimiento, las aplicaciones de esta tecnología pueden ir de algo tan simple como un juguete para niños, hasta algo tan complejo como un camión autónomo. Es muy probable que un componente grande que utilice internet de las cosas tenga dentro otros componentes más chicos que también utilicen internet de las cosas, como por ejemplo los cohetes de SpaceX, que el cohete es manejado autónomamente y contiene miles de sensores que recolectan información que es enviada a la computadora que maneja el cohete y también a la maquinas terrestres que monitorean el funcionamiento del cohete.
 
 ## Historia del internet de las cosas
 
@@ -24,9 +24,9 @@ Al principio el Internet de las cosas estaba pensado para ser utilizado en el á
 
 Los protocolos cumplen una parte crucial en el Internet de las cosas, sin estos el hardware de los dispositivos no tendrían propósito ya que los protocolos permiten que los dispositivos intercambien datos de una forma estructurada y significante.
 
-Un tema de suma importancia en Internet de las cosas es la comunicación e interacción entre sensores, dispositivos, puertas de enlace, servidores y aplicaciones de usuario son las características que le dan la esencia al internet de las cosas. Los protocolos de IoT son los encargados de hacer posible la interacción y comunicación entre los dispositivos inteligente.
+Un tema de suma importancia en Internet de las cosas es la comunicación e interacción entre sensores, dispositivos, puertas de enlace, servidores y aplicaciones de usuario, son las características que le dan la esencia al internet de las cosas. Los protocolos de IoT son los encargados de hacer posible la interacción y comunicación entre los dispositivos inteligente.
 
-Los dispositivos de IoT pueden ser comunicados mediante redes IP y también por redes que no utilicen IP, en estos diferentes tipos de comunicación lo que varia es el rango, la potencia y el uso de memoria. De esta manera las conexiones mediante IP son mas complejas y consumen bastante memoria y potencia del dispositivo mientras que el rango no es un problema. En el caso de redes que no utilicen IP, como puede ser bluetooth, se requiere menos memoria y potencia, pero el rango es limitado.
+Los dispositivos de IoT pueden ser comunicados mediante redes IP y también por redes que no utilicen IP, en estos diferentes tipos de comunicación lo que varia es el rango, la potencia y el uso de memoria. De esta manera las comunicaciones mediante IP son mas complejas y consumen bastante memoria y potencia del dispositivo mientras que el rango no es un problema. En el caso de redes que no utilicen IP, como puede ser bluetooth, se requiere menos memoria y potencia, pero el rango es limitado.
 
 Los protocolos de IoT estandarizado brindan los siguientes beneficios:
 -	Alta calidad y credibilidad.

@@ -32,9 +32,8 @@ void setup()
 }
 
 void loop(){
-  
-  if(Bluetooth.available()){
 
+  if(Bluetooth.available()){
     command = Bluetooth.read();
 
     Serial.println(command);  
@@ -64,3 +63,6 @@ void loop(){
   }
 }
 ```
+En el bloque inicial de codigo se declara algunos pines, como output, esto corresponde a los 3 leds que se van a controlar.
+
+Luego se en el loop de ejecucion, constantemente se lee si entra un comando por bluetooth. Luego con esa variable se trabaja en la ejecucion de codigo, en este caso simplemente se prenden o apagan los leds.

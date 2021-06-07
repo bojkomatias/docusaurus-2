@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'IoT - Wiki',
-  tagline: 'The tagline of my site',
+  title: 'Internet of Things',
+  tagline: 'Gonzalo Miranda - Matias Bojko',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
@@ -15,9 +15,9 @@ module.exports = {
       },
       links: [
         {
-          to: 'docs/doc1',
+          to: 'docs/intro',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Documentación',
           position: 'left',
         },
 

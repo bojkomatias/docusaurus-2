@@ -19,4 +19,15 @@ La comunicación entre dos dispositivos bluetooth es un proceso de varios pasos 
 -	La consulta se realiza cuando dos dispositivos que se van a conectar no tienen conocimiento de los detalles de cada uno. Entonces el otro dispositivo si quiere establecer la comunicación le manda el un mensaje de respuesta con su nombre y la dirección.
 -	La paginación es el proceso en le que los dos dispositivos se conectan entre sí, esto solo se puede hacer si cada dispositivo conoce la dirección del otro dispositivo, que fue solicitada en la etapa de consulta.
 -	Cuando la paginación termina, los dispositivos entran en modo de conexión. Cuando ya se encuentran conectados los dispositivos tienen la habilidad de comunicarse entre ellos.
+## Bluetooth especifico para IoT
+
+Bluetooth se ha vuelto realmente popular en los últimos años gracias al crecimiento de pequeños equipos inteligentes que necesitan una conexión inalámbrica de bajo consumo.
+
+  ![Bluetooth 5](/img/bluetooth5.jpg)
+
+Lo bueno es que existe el protocolo Bluetooth Low Energy. Al igual que Bluetooth, BLE opera en la banda ISM de 2.4 GHz. Sin embargo, la diferencia del Bluetooth clásico, BLE permanece en modo de suspensión constantemente, excepto cuando se inicia una conexión. Los tiempos de conexión reales son solo de unos pocos milisegundos, a diferencia de Bluetooth, que tomaría más de 100 milisegundos. En las redes Bluetooth de baja energía los dispositivos pueden ser centrales o periféricos. Los dispositivos centrales (teléfonos inteligentes, tabletas, computadoras, etc.) tienen mayor capacidad de procesamiento y son responsables de controlar los dispositivos periféricos. Los dispositivos centrales generalmente ejecutan software creado específicamente para interactuar con dispositivos periféricos. Estos últimos sirven como sensores que recopilan datos y los envían a dispositivos centrales para su procesamiento. La clave del bajo consumo es que no procesan datos, solo lo recogen.
+
+Gracias a este ahorro de energía de Bluetooth Low Energy, las aplicaciones pueden funcionar con una batería pequeña durante cuatro o cinco años. Esto resulta sumamente útil en dispositivos médicos (como sensores de temperatura o pulso, medidores de presión, etc.), sensores industriales, luces, termostatos y otros tantos equipos pequeños.
+
+La buena noticia es que virtualmente casi cualquier dispositivo puede acceder a modo Low Energy desde la actualizacion 5.0 (año 2017) y se trabaja en cada futura version para el mantenimiento y aumentar la eficiencia de esta modalidad.
 

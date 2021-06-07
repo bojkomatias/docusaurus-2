@@ -7,7 +7,7 @@ sidebar_label: ZigBee
 ## ¿Qué es?
   Zigbee es el nombre de la especificación de un conjunto de protocolos de alto nivel de comunicación inalámbrica para su utilización con radiodifusión digital de bajo consumo, basada en el estándar IEEE 802.15.4 de redes inalámbricas de área personal (wireless personal area network, WPAN). Su objetivo son las aplicaciones que requieren comunicaciones seguras con baja tasa de envío de datos y maximización de la vida útil de sus baterías.
 
-## Comparando ZigBee
+## ZigBee
   Zigbee se basa en el nivel físico y el control de acceso al medio (MAC).
   El desarrollo de la tecnología se centra en la sencillez y el bajo costo más que otras redes inalámbricas semejantes de la familia WPAN, como por ejemplo Bluetooth. El nodo Zigbee más completo requiere en teoría cerca del 10% del hardware de un nodo Bluetooth o Wi-Fi típico; esta cifra baja al 2% para los nodos más sencillos.
 
